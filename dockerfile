@@ -12,4 +12,4 @@ RUN set -ex \
     && pip install moviepy
 
 WORKDIR /PaddleGAN
-CMD python
+CMD ["/bin/bash"]
