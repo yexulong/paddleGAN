@@ -13,6 +13,6 @@
 
 5. 在出来的终端里输入`cd /PaddleGAN/applications`
 
-6. `export PYTHONPATH=$PYTHONPATH:/PaddleGAN && python -u tools/first-order-demo.py  --driving_video /source.mp4  --source_image /source.png --relative --adapt_scale`
+6. `export PYTHONPATH=$PYTHONPATH:/PaddleGAN && python -u tools/first-order-demo.py  --driving_video /work/source.mp4  --source_image /work/source.png --relative --adapt_scale`
 
 7. 等待结果...
