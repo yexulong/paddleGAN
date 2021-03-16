@@ -1,4 +1,6 @@
 # paddleGAN
+未完成~
+
 蚂蚁呀嘿合成环境dockerfile
 
 1. 下载dockerfile
