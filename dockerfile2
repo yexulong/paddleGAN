@@ -10,3 +10,4 @@ RUN set -ex \
 
 WORKDIR /home/PaddleGAN
 CMD ['/bin/bash']
+
